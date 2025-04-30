@@ -1,0 +1,52 @@
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Project specific
+output/
+images/*
+!images/.gitkeep
+logos/*
+!logos/.gitkeep
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Virtual environment
+venv/
+env/
+.env/
+.venv/
+
+# IDE settings
+.vscode/
+.idea/
+*.swp
+.DS_Store
+
+# Project specific
+watermarked/
+*_watermark.*
+*_with_logo.*
+photo_watermark.png
+photo_with_logo.png 
